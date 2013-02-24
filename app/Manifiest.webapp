@@ -1,0 +1,17 @@
+{
+  "version":"0.1",
+  "name": "Driver2in",
+  "description": "Locate",
+  "launch_path": "index.html",
+  "icons": {
+    "16": "/img/btuser.png",
+    "48": "/img/btuser.png",
+    "128": "/img/btuser.png"
+  },
+  "developer": {
+    "name": "@hencogo",
+    "url": "http://twitter.com/hencogo"
+  },
+  "default_locale": "es"
+}
+
